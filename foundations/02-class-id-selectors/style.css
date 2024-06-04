@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(241, 144, 157);
+}
+
+#third {
+    font-size: 24px;
+}
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+#verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    color:blue;
+}
